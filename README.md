@@ -6,3 +6,4 @@ you can find more of the stuff i do [here](https://eliseydudin.github.io) :3:3
 now for the stats :D
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=eliseydudin&show_icons=true&theme=radical)
+![my langs :3](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseydudin&theme=radical)
