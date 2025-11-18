@@ -1,4 +1,4 @@
-hai im silly, i like rust :3
+hello im a rust programmer .
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=eliseydudin&show_icons=true&theme=radical)
  <br />
